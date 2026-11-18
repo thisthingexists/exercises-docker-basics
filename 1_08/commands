@@ -1,2 +1,2 @@
-docker build -t devopsdockeruh/simple-web-service:web-server .
-docker run devopsdockeruh/simple-web-service:web-server
+docker build -t web-server .
+docker run web-server 
