@@ -1,0 +1,2 @@
+docker build -t oldjavaspring .
+docker run -p3000:8080 oldjavaspring
